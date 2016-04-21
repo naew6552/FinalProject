@@ -84,14 +84,17 @@ int main()
         }
         else if(userInput == "2")
         {
-            string title;
-            cout<<"Class Title: "<<endl;
-            getline(cin, title);
-            A.enrollClass(title);
+            string titleadd;
+            cout<<"Name of Class to Add: "<<endl;
+            getline(cin, titleadd);
+            A.enrollClass(titleadd);
         }
         else if(userInput == "3")
         {
-
+            string titledelete;
+            cout<<"Name of Class to Remove: "<<endl;
+            getline(cin, titledelete);
+            A.dropClass(titledelete);
         }
         else if(userInput == "4")
         {

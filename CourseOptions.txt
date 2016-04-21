@@ -5,8 +5,14 @@ Material,ATLS,3519,Rankin D.,9:00-10:50,TTH,15,20
 Global Development,ATLS,5120,Klees R.,3:30-4:45,TTH,10,15
 Creative Technologies,ATLS,5519,Swanson J.,1:00-3:30,M,30,30
 Code,ATLS,2519,Swanson J., 11:00-12:50, MW,28,30
-Intro Computer Graphics,ENVD,3152,TBD,6:00-7:15,TTH,40,100
+Intro to Computer Graphics,ENVD,3152,TBD,6:00-7:15,TTH,40,100
 Technical Communication and Design,WRTG,3035,Myers S.,2:00-3:15,TTH,15,18
 Cognitive Science,CSCI,3702,Eisenberg M., 9:30-10:45,TTH,35,35
 Computer Systems,CSCI,2400,Miller F.,10:00-10:50,MWF,150,200
 Intro to Artificial Intelligence,CSCI,3202,Hoenigman R.,4:00-4:50,MWF,100,100
+Media and the Public,MDST,2791,Tracey M.,3:30-4:45,TTH,13,15
+Systems Thinking,MGMT,4210,Adams H.,2:00-3:15,TTH,49,50
+Comics and the Graphic Novel,WRTG,3020,Jaime K.,10:00-10:50,MWF,19,20
+Intro to Contemporary Media Cultures,3002,CMDP,Young A.,12:00-1:15,MW,18,20
+Advanced Image,ATLS,3519,Conor K.,9:00-10:50,MW,17,20
+Web Front-End Development,ATLS,4519,Pierce A.,9:00-10:50,TTH,21,22
