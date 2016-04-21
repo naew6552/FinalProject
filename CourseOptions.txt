@@ -1,0 +1,12 @@
+History of Design,ATLS,3519,Black J.,11:00-12:15,TTH,15,20
+Mobile Application Development,ATLS,4120,Pierce A.,11:00-12:50,TTH,20,20
+Advanced Web,ATLS,4519,Schaal D.,3:30-5:20,TTH,19,25
+Material,ATLS,3519,Rankin D.,9:00-10:50,TTH,15,20
+Global Development,ATLS,5120,Klees R.,3:30-4:45,TTH,10,15
+Creative Technologies,ATLS,5519,Swanson J.,1:00-3:30,M,30,30
+Code,ATLS,2519,Swanson J., 11:00-12:50, MW,28,30
+Intro Computer Graphics,ENVD,3152,TBD,6:00-7:15,TTH,40,100
+Technical Communication and Design,WRTG,3035,Myers S.,2:00-3:15,TTH,15,18
+Cognitive Science,CSCI,3702,Eisenberg M., 9:30-10:45,TTH,35,35
+Computer Systems,CSCI,2400,Miller F.,10:00-10:50,MWF,150,200
+Intro to Artificial Intelligence,CSCI,3202,Hoenigman R.,4:00-4:50,MWF,100,100
