@@ -1,0 +1,1 @@
+My program creates a course searching system, using a Binary Search Tree. The user will be able to search for a course by name, teacher, or department, sign up for classes, remove classes, and view their current class schedule. 
