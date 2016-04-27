@@ -19,7 +19,7 @@ None
 #### Contributors
 Max Lookabaugh
 
-### Open Enhancements
+#### Open Enhancements
 If I had more time, I'd like to add ways to search and add classes by different criteria, such as department or teacher.
 
 
