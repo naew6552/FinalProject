@@ -1,5 +1,5 @@
 ### Project Summary
-This is a program to search & sign up for classes. The classes are organized into a Binary Search Tree, while the your class schedule is organized in a vector. The user will be able to search for a course by name, and be able to view the teacher, department, time, and enrollment availability of that class. The user will be able to add a class into their class schedule, and remove the class from their schedule, while responsively updating class enrollment. A class cannot be added if the class has reached capacity, or already been added to your schedule.
+This is a program to search & sign up for classes. The classes are organized into a Binary Search Tree, while your class schedule is organized in a vector. You may search for a course by name, and view the teacher, department, time, and enrollment availability of that class. You may add a class into your class schedule, and remove the class from your schedule (when adding a dropping, the class enrollment total is updated). A class cannot be added if the class has reached capacity, or already been added to your schedule.
 
 ### How To Run
 1. Open your terminal on your virtual machine desktop (all steps will be done through virtual machine because your vm has codeblocks on it).
