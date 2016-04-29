@@ -3,12 +3,10 @@ This is a program to search & sign up for classes. The classes are organized int
 
 ### How To Run
 1. Open your terminal on your virtual machine desktop (all steps will be done through virtual machine because your vm has codeblocks on it).
-2. Navigate to a place in your folders that you will be able to find the project and feel comfortable storing and looking at this project (use _ls_ to see contents in your current directory, use _cd [folder you wish to navigate into here]_ to move into a directory of your choice). For example, you might want to cd into your Dropbox or Documents folder.
-2. Run this command in your terminal: _git clone https://github.com/kmegoryc/FinalProject.git_ 
-
-Nice job! You should now see my project (titled FinalProject) in your current directory. Command _ls_ to see it listed there.
-3. Open finder and navigate to the directory you orignally cd'd into and cloned my project into. Double click FinalProject.cbp to view and run my project.
-4. Click run and you're done!
+2. In your terminal, navigate to a place in your folders that you will be able to find the project and feel comfortable storing and looking at this project (use _ls_ to see contents in your current directory, use _cd [folder you wish to navigate into here]_ to move into a directory of your choice, us _cd .._ to move back a directory). For example, you might want to cd into your Dropbox or Documents folder.
+3. Once you get tehre run this command in your terminal: _git clone https://github.com/kmegoryc/FinalProject.git_ Nice job! You should now see my project (titled FinalProject) in your current directory. Command _ls_ to see it listed there.
+4. Open finder and navigate to the directory you orignally cd'd into and cloned my project into. Double click FinalProject.cbp to view and run my project.
+5. Click run and you're done!
 
 #### Dependencies
 CodeBlocks
