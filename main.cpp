@@ -75,7 +75,8 @@ int main()
         cout << "2. Enroll In a Class" << endl;
         cout << "3. Drop a Class" << endl;
         cout << "4. Print Schedule" << endl;
-        cout << "5. Quit" << endl;
+        cout << "5. Search by Time" << endl;
+        cout << "6. Quit" << endl;
         getline(cin, userInput);
 
         if(userInput == "1")
@@ -101,6 +102,10 @@ int main()
             A.printClassSchedule();
         }
         else if(userInput == "5")
+        {
+            A.searchByTime();
+        }
+        else if(userInput == "6")
         {
             quit = true;
         }

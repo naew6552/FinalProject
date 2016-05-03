@@ -44,10 +44,12 @@ class ClassTree
         void dropClass(string title);
         void addClassToSchedule(string name, string department, int courseNumber, string teacher, string time, string day);
         void printClassSchedule();
+        void searchByTime();
     protected:
     private:
         std::vector<ClassNode> schedule;
         void printClassInventory(ClassNode *node);
+        void searchByTime(ClassNode *n, string time);
         ClassNode* search(string name);
         ClassNode *root;
 };

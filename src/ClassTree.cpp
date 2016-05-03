@@ -171,3 +171,42 @@ void ClassTree::printClassSchedule(){
         }
     }
 }
+
+void ClassTree::searchByTime()
+{
+    cout << "Please Enter a time for classes to start" << endl;
+    string time;
+    getline(cin, time);
+
+    searchByTime(root, time);
+
+}
+
+void ClassTree::searchByTime(ClassNode *n, string time)
+{
+    //take in user's input, then use a for loop to use substring cut time
+    //then compare times.
+
+    if(n -> left != NULL)
+    {
+        searchByTime(n -> left, time);
+    }
+
+    string subTime;
+    int timePos;
+    timePos = n -> time.find("-");
+    subTime = n -> time.substr(0, timePos);
+
+    if(time.compare(subTime) == 0)
+    {
+        cout<<"Class: "<<n->name<<" ("<<n->department<<" "<<n->courseNumber<<")"<<endl;
+        cout<<"Teacher: "<<n->teacher<<endl;
+        cout<<"Time: "<< n->time<<", "<<n->day<<endl;
+    }
+
+    if(n -> right != NULL)
+    {
+        searchByTime(n -> right, time);
+    }
+}
+
